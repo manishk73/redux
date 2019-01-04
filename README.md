@@ -1,2 +1,3 @@
-# redux
-This repository has samples for redux use in react apps 
+# Redux
+
+This repository has samples for redux use in react apps. 
